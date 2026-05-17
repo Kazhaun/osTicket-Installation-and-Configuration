@@ -19,7 +19,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+- <img width="1457" height="1266" alt="OS-1" src="https://github.com/user-attachments/assets/ec6a7780-1111-4020-849f-126dbc70e5f2" />
+
 - Item 2
 - Item 3
 - Item 4
